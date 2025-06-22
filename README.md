@@ -12,7 +12,7 @@ Front End Developer || CS Student
 
 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sheikh-hassaan-saeed&theme=dark"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sheikh-hassaan-saeed&theme=dark&cache_seconds=1800" />
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-hassaan-saeed&theme=dark&layout=compact"/>
 
 
