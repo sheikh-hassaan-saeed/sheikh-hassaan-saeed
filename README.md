@@ -10,6 +10,11 @@ Front End Developer || CS Student
 -  **Fun fact:** I break code just to learn how to fix it
 
 
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sheikh-hassaan-saeed&show_icons=true&rank_icon=github"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-hassaan-saeed&layout=compact"/>
+
+
+
 
 
 
