@@ -7,7 +7,6 @@ Front End Developer || CS Student
 -  **I’m looking to collaborate on:** Frontend Development Project
 -  **Ask me about:** Collaboration, Tech Support
 -  **How to reach me:** sheikhhassaansaeed@gmail.com
--  **Fun fact:** I break code just to learn how to fix it
 
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sheikh-hassaan-saeed&show_icons=true&icon_color=2092fc&border_radius=10&rank_icon=github&theme=dark"/>
