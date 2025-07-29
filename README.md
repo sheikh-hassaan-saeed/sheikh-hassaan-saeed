@@ -19,7 +19,7 @@ Front End Developer || CS Student
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,jest,cpp,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,jest,cpp,git,github,nodejs,npm&theme=dark" />
   </a>
 </p>
 
