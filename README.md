@@ -21,7 +21,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-hassa
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,jest,cpp,git,github,nodejs,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,jest,cpp,git,github,nodejs,npm,express,mongo&theme=dark" />
   </a>
 </p>
 
