@@ -1,5 +1,5 @@
 # Hi, I'm Sheikh Hassaan Saeed
-Front End Developer || CS Student
+Front End Developer
 
 
 
@@ -9,13 +9,18 @@ Front End Developer || CS Student
 
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sheikh-hassaan-saeed&show_icons=true&icon_color=2092fc&border_radius=10&rank_icon=github&theme=dark"/>
+
 <img alt="top langs" align="left" width="42%" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-hassaan-saeed&theme=dark&border_radius=10&layout=compact&cache_seconds=3600"/>
+
+<br clear="both" />
+<br/>
 
 ## 📌 Featured Projects
 
 ### [DocX - Clinical Laboratory System](link-to-repo)
 Full-stack MERN application for managing patient records and lab operations. Deployed on Vercel.
+
 
 ### [Empleesy - Employee Management Dashboard](link-to-repo)
 React-based dashboard with CRUD functionality for employee tracking and management.
@@ -23,7 +28,6 @@ React-based dashboard with CRUD functionality for employee tracking and manageme
 ### [AutoCare - Automotive Services Website](link-to-repo)
 Responsive business website with booking system and service scheduling features.
 
-<br clear="both" />
 <br/>
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
