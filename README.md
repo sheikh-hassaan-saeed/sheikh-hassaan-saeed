@@ -1,6 +1,5 @@
 # Hi, I'm Sheikh Hassaan Saeed
-Front End Developer
-
+Front-End Developer
 
 
 -  **Specialized in:** Converting Figma designs to production-ready React applications
@@ -18,16 +17,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-hassa
 
 ## 📌 Featured Projects
 
-### [DocX - Clinical Laboratory System](link-to-repo)
+### DocX - Clinical Laboratory System
 Full-stack MERN application for managing patient records and lab operations. Deployed on Vercel.
 
+[Live Demo](https://medical-website-six-sage.vercel.app/) • [Source Code](https://github.com/sheikh-hassaan-saeed/react-projects/tree/main/healthcare-website)
 
-### [Empleesy - Employee Management Dashboard](link-to-repo)
+<!--### Empleesy - Employee Management Dashboard
 React-based dashboard with CRUD functionality for employee tracking and management.
+[Live Demo](https://docx-live-url.vercel.app) • [Source Code](https://github.com/sheikh-hassaan-saeed/docx)-->
 
-### [AutoCare - Automotive Services Website](link-to-repo)
+### AutoCare - Automotive Services Website
 Responsive business website with booking system and service scheduling features.
 
+[Live Demo](https://automotive-website-nu.vercel.app/)• [Source Code](https://github.com/sheikh-hassaan-saeed/automotive-website)
 <br/>
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
