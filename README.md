@@ -36,7 +36,7 @@ Responsive business website with booking system and service scheduling features.
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,c#,git,github,nodejs,npm,express,mongo,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,cpp,git,github,nodejs,npm,express,mongo,tailwind&theme=dark" />
   </a>
 </p>
 
